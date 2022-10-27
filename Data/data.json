@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "course_Name": "Internet of Thingns",
+    "author": "Bashar Ahmed",
+    "level": "Beginner",
+    "price":"$100",
+    "language":"English",
+    "duration":"4 Months",
+    "content": "The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks",
+    "img":"https://www.simplilearn.com/ice9/free_resources_article_thumb/iot-explained-what-it-is-how-it-works-and-its-applications-banner.jpg"
+    
+  },
+  {
+    "id": 2,
+    "course_Name": "Networking",
+    "author": "Bashar Ahmed",
+    "level": "Intermidiate",
+    "price":"$150",
+    "language":"English",
+    "duration":"3 Months",
+    "content": "Networking is at the heart of the digital transformation. The network is essential to many business functions today, including business critical data and operations, cybersecurity, and so much more. A wide variety of career paths rely on the network -- so it's important to understand what the network can do, how it operates, and how to protect it.",
+    "img":"https://s3.amazonaws.com/coursesity-blog/2021/04/Computer_Network_Classes.png"
+    
+  },
+  {
+    "id": 3,
+    "course_Name": "Signal & System",
+    "author": "Bashar Ahmed",
+    "level": "Beginner",
+    "price":"$80",
+    "language":"English",
+    "duration":"4 Months",
+    "content": "Covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations,",
+    "img":"https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2Fs8rsR_TStaA%2Fhqdefault.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=d53746a388199f4c284860fd862d8de4"
+    
+  },
+  {
+    "id": 4,
+    "course_Name": "Cyber Law",
+    "author": "Bashar Ahmed",
+    "level": "Advance",
+    "price":"$100",
+    "language":"English",
+    "duration":"2 Months",
+    "content": "Cyber law is associated with all the areas of business which have a technological bend. In this article, we will look at six areas of concern for a cyber law namely, e-commerce, online contracts, business software patenting, e-taxation, e-governance, and cyber crimes.",
+    "img":"https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/12/06132244/SOCL1-1024x576.png"
+    
+  },
+  {
+    "id": 5,
+    "course_Name": "Digital Image Processing",
+    "author": "Bashar Ahmed",
+    "level": "Advance",
+    "price":"$200",
+    "language":"English",
+    "duration":"4 Months",
+    "content": "Digital image processing is a process to perform image processing algorithms on digital images. Digital Image Processing contains the processing of images such as reading, analyzing, and manipulating an image, and performing any kind of operation, such as improving the information representation of an image, processing the image data for storage, transmission, and representation. Digital image processing is used in projects dealing with classification, feature extraction, pattern recognition, etc.",
+    "img":"https://cdn.educba.com/academy/wp-content/uploads/2019/12/digital-image-processing-1.jpg"
+    
+  },
+  {
+    "id": 6,
+    "course_Name": "Data Science",
+    "author": "Bashar Ahmed",
+    "level": "Advance",
+    "price":"$300",
+    "content": "Data Science course includes unique hackathons, masterclasses, webinars, and Ask-Me-Anything sessions. The online training will give you hands-on experience with technologies like R, Python, Machine Learning, Tableau, Hadoop, and Spark. Improve your knowledge with this Data Science course and live interaction with other practitioners and Machine Learning Engineers.",
+    "img":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201201224231/Best-Courses-to-Learn-Data-Science.png"
+    
+  }
+
+]
